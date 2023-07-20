@@ -224,3 +224,17 @@ Backpropagation is the process of adjusting the weights and biases of a neural n
 <div align="center">
 	<img src ="https://7-hiddenlayers.com/wp-content/uploads/2020/06/NEURONS-IN-NUERAL-NETWORK.gif" height =300 weight = 300>
 </div>
+
+<br>
+<br>
+
+<h1>WHAT IS NON-LINEARITY?<h1>
+	
+
+<br>
+<img src="https://rahsoft.com/wp-content/uploads/2021/04/Screenshot-2021-04-23-at-19.59.06.png" weight = 300 height = 300/>
+<h3>CODE</h3>
+<img src="https://github.com/Doguhannilt/Learning-PyTorch-DL/assets/77373443/a8b08795-4117-4732-83c2-67d0f67cfbbd" weight = 300 height = 300/>
+<br>
+<p><italic>Artifical Neural Networks are a large combination of linear and non-straight functions which are potentially able to find patterns in data</italic></p>
+
